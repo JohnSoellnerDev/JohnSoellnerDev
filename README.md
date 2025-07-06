@@ -7,13 +7,18 @@
 </h1>
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=JohnSoellnerDev&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=JohnSoellnerDev&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=79C0FF&icon_color=79C0FF&text_color=E6EDF3&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnSoellnerDev&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=79C0FF&text_color=E6EDF3&langs_count=8" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 </div>
 
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnSoellnerDev&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
 
 ---
 
@@ -43,13 +48,18 @@
 
 <h2 align="center">📊 Contribution Graph</h2>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnSoellnerDev&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JohnSoellnerDev&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JohnSoellnerDev&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=79C0FF&ring=79C0FF&fire=79C0FF&currStreakLabel=79C0FF" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JohnSoellnerDev&bg_color=0D1117&color=79C0FF&line=79C0FF&point=E6EDF3&area=true&hide_border=true&custom_title=Contribution%20Activity%20Graph" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JohnSoellnerDev&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
 
 ---
 
